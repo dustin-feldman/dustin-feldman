@@ -340,15 +340,12 @@
 		<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
 	</a>
 </p>
-<h3 align="left">
-	Support:
-</h3>
-<p>
-	<a href="https://www.buymeacoffee.com/Dustin Feldman">
-		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dustin Feldman" />
-	</a>
-	<a href="https://ko-fi.com/Dustin Feldman">
-		<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dustin Feldman" />
-	</a>
-</p>
-<div class="block sm:flex sm:justify-center sm:items-center"><div class="text-center mx-4 mb-4"> &nbsp;</div><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;"></div></div>
+<div class="block sm:flex sm:justify-center sm:items-center" style="text-align:center;">
+	<div class="text-center mx-4 mb-4">
+		&nbsp;
+	</div>
+	<div class="text-center mx-4 mb-4">
+		<img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;">
+		</img>
+	</div>
+</div>
