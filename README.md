@@ -351,4 +351,4 @@
 		<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dustin Feldman" />
 	</a>
 </p>
-<div class="block sm:flex sm:justify-center sm:items-start"><div class="text-center mx-4 mb-4"> &nbsp;</div><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;"></div></div>
+<div class="block sm:flex sm:justify-center sm:items-center"><div class="text-center mx-4 mb-4"> &nbsp;</div><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;"></div></div>
