@@ -7,11 +7,11 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=dustin-feldman&label=Profile%20views&color=0e75b6&style=flat" alt="dustin-feldman" />
 </p>
-- 👨‍💻 Some of my projects are available at [https://supermegapixel.com/portfolio/]
+- 👨‍💻 Some of my projects are available at https://supermegapixel.com/portfolio/
 
 - 📫 How to reach me **dustin@k9webops.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dustinfeldman]
+- 📄 Know about my experiences https://www.linkedin.com/in/dustinfeldman
 <h3 align="left">
 	Connect with me:
 </h3>
@@ -351,13 +351,17 @@
 		<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dustin Feldman" />
 	</a>
 </p>
-<br>
-	<br>
-		<p>
-			<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dustin-feldman&show_icons=true&locale=en&layout=compact" alt="dustin-feldman" />
-		</p>
-		<p>
-			<img align="center" src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&show_icons=true&locale=en" alt="dustin-feldman" />
-		</p>
-	</br>
-</br>
+<div class="block sm:flex sm:justify-center sm:items-start">
+	<div class="text-center mx-4 mb-4">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dustin-feldman&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;">
+		</img>
+		<div class="text-center mx-4 mb-4">
+			<img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;">
+			</img>
+			<div class="text-center mx-4 mb-4">
+				<img src="https://github-readme-streak-stats.herokuapp.com/?user=dustin-feldman&amp;" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;">
+				</img>
+			</div>
+		</div>
+	</div>
+</div>
