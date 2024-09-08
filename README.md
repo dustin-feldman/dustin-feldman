@@ -7,16 +7,29 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=dustin-feldman&label=Profile%20views&color=0e75b6&style=flat" alt="dustin-feldman" />
 </p>
-- 👨‍💻 Some of my projects are available at https://supermegapixel.com/portfolio/
 
-- 📫 How to reach me **dustin@k9webops.com**
+👨‍💻 Some of my projects are available at https://supermegapixel.com/portfolio/
 
-- 📄 Know about my experiences https://www.linkedin.com/in/dustinfeldman
+📫 How to reach me **dustin@k9webops.com**
+
+📄 Know about my experiences https://www.linkedin.com/in/dustinfeldman
+
+<h3 align="left">
+	Aboue me:
+</h3>
+<p align="left">
+I have developed a successful career in two distinct yet complementary paths: technology and charitable work. With over 25 years of experience in the technology industry, including over 10 years as a highly skilled software engineer, I have amassed an impressive array of skills and accomplishments. My expertise lies in business, management, network engineering, and security, with a proven track record of delivering successful technical projects across a diverse range of industries.
+
+As a seasoned network engineer, technical project manager, and software engineer, I excel at problem-solving, troubleshooting, and providing top-notch security solutions. My software engineering experience includes designing and implementing robust applications, optimizing performance, and ensuring high-quality code standards. I have extensive knowledge of network security, AWS cloud computing, wireless data security, and encryption. Furthermore, my involvement in the ham radio community has afforded me expertise in microwave communication technologies. I am at the forefront of hosting technology and specialize in cloud computing and systems integration.
+
+I also have a passion for home automation, particularly in the areas of CCTV, structured wiring, and accessible living projects for individuals with disabilities. My charitable work focuses on supporting those with physical disabilities through the training and placement of service dogs. I work closely with Amazing Tails, LLC, a 501c(3) non-profit organization based in Oxford, PA, to train service dogs that assist people in maintaining a safe and independent existence. Since 1999, Amazing Tails has successfully trained dogs to serve the disabled community, and I am honored to be a part of this mission.
+</p>
+
 <h3 align="left">
 	Connect with me:
 </h3>
 <p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/dustinfeldman" target="blank">
+	<a href="https://www.linkedin.com/in/dustinfeldman" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dustinfeldman" height="30" width="40" />
 	</a>
 </p>
