@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi every, I'm Dustin Feldman
+	Hello everyone, I'm Dustin Feldman
 </h1>
 <h3 align="center">
 	Software Engineer | System Administrator
@@ -7,11 +7,11 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=dustin-feldman&label=Profile%20views&color=0e75b6&style=flat" alt="dustin-feldman" />
 </p>
-- 👨‍💻 Some of my projects are available at [https://supermegapixel.com/portfolio/](https://supermegapixel.com/portfolio/)
+- 👨‍💻 Some of my projects are available at [https://supermegapixel.com/portfolio/]
 
 - 📫 How to reach me **dustin@k9webops.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dustinfeldman](https://www.linkedin.com/in/dustinfeldman)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dustinfeldman]
 <h3 align="left">
 	Connect with me:
 </h3>
@@ -211,7 +211,7 @@
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40" />
 	</a>
 	<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
+		<img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
@@ -277,7 +277,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
 	</a>
 	<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
+		<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40" />
 	</a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
@@ -334,7 +334,7 @@
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" />
 	</a>
 	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+		<img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" alt="xd" width="40" height="40" />
 	</a>
 	<a href="https://zapier.com" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
