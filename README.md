@@ -357,7 +357,6 @@
 			<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dustin-feldman&show_icons=true&locale=en&layout=compact" alt="dustin-feldman" />
 		</p>
 		<p>
-			&nbsp;
 			<img align="center" src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&show_icons=true&locale=en" alt="dustin-feldman" />
 		</p>
 	</br>
