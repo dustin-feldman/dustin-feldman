@@ -356,12 +356,3 @@ I also have a passion for home automation, particularly in the areas of CCTV, st
 		<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
 	</a>
 </p>
-<div class="block sm:flex sm:justify-center sm:items-center" align="center">
-	<div class="text-center mx-4 mb-4">
-		&nbsp;
-	</div>
-	<div class="text-center mx-4 mb-4">
-		<img src="https://github-readme-stats.vercel.app/api?username=dustin-feldman&amp;show_icons=true&amp;locale=en" alt="dustin-feldman" data-nsfw-filter-status="sfw" style="visibility: visible;">
-		</img>
-	</div>
-</div>
