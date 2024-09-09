@@ -1,4 +1,6 @@
 <h1 align="center">
+</h1>
+<h1 align="center">
 	Hello everyone, I'm Dustin Feldman
 </h1>
 <h3 align="center">
@@ -353,7 +355,7 @@ I also have a passion for home automation, particularly in the areas of CCTV, st
 		<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
 	</a>
 </p>
-<div class="block sm:flex sm:justify-center sm:items-center" style="text-align:center;">
+<div class="block sm:flex sm:justify-center sm:items-center" align="center">
 	<div class="text-center mx-4 mb-4">
 		&nbsp;
 	</div>
