@@ -1,4 +1,6 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/C4E16AQHLIVKbwhqQLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1562697656828?e=2147483647&v=beta&t=1giaduEtIAa-7PySGxZVruwepoeniltmSo29MHR-yxY" alt="K9 Webops LLC"/>
+<p align="center">
+<img src="https://media.licdn.com/dms/image/v2/C4E16AQHLIVKbwhqQLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1562697656828?e=2147483647&v=beta&t=1giaduEtIAa-7PySGxZVruwepoeniltmSo29MHR-yxY" alt="K9 Webops LLC"/>
+</p>
 <h1 align="center">
 	Hello everyone, I'm Dustin Feldman
 </h1>
