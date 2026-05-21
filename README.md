@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://media.licdn.com/dms/image/v2/C4E16AQHLIVKbwhqQLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1562697656828?e=2147483647&v=beta&t=1giaduEtIAa-7PySGxZVruwepoeniltmSo29MHR-yxY" alt="K9 Webops LLC"/>
-</p>
 <p align="left">
 	<a href="https://www.linkedin.com/in/dustinfeldman" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dustinfeldman" height="30" width="40" />
